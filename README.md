@@ -85,3 +85,4 @@ pyinstaller --onefile --windowed --icon=assets/icon.ico --name=DeepSeekMonitor m
 - Windows 10 / 11
 - Python 3.10+（若使用源码运行）
 - 网络连接（用于 API 查询）
+- 暂不支持其他来源的api，仅支持Deepseek
